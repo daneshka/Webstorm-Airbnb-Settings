@@ -1,6 +1,7 @@
 <code_scheme name="airbnb">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="100" />
+  <option name="HTML_ATTRIBUTE_WRAP" value="4" />
   <option name="HTML_TEXT_WRAP" value="0" />
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   <option name="HTML_ALIGN_TEXT" value="true" />
@@ -14,6 +15,7 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <codeStyleSettings language="HTML">
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
@@ -24,6 +26,7 @@
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
